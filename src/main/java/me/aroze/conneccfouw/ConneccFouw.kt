@@ -1,17 +1,13 @@
-package me.aroze.conneccfouw;
+package me.aroze.conneccfouw
 
-import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.plugin.java.JavaPlugin
 
-public final class ConneccFouw extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
+class ConneccFouw : JavaPlugin() {
+    override fun onEnable() {
         // Plugin startup logic
-
     }
 
-    @Override
-    public void onDisable() {
+    override fun onDisable() {
         // Plugin shutdown logic
     }
 }
