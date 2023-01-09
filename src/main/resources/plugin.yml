@@ -1,0 +1,8 @@
+name: ConneccFouw
+version: '${project.version}'
+main: me.aroze.conneccfouw.ConneccFouw
+api-version: 1.19
+authors: [ Aroze ]
+description:
+  Connect four in Minecwaf :flfusidfshhed:
+website: https://aroze.me
